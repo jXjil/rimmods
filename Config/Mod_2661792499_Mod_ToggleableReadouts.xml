@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ToggleableReadouts.ModSettings_ToggleableReadouts">
+		<exposedFilteredDefs>
+			<li>ThingDef/SurvivalTools_Primitive_Axe</li>
+			<li>ThingDef/ElephantTusk</li>
+			<li>ThingDef/ChunkSlate</li>
+			<li>ThingDef/ChunkMarble</li>
+			<li>ThingDef/ChunkGranite</li>
+			<li>ThingDef/OE_Leather_Raptor</li>
+			<li>ThingDef/RC2_Honey</li>
+			<li>ThingDef/RC2_RawQuinoa</li>
+			<li>ThingDef/RC2_RawSugarcane</li>
+			<li>ThingDef/RC2_RawCocoaBeans</li>
+			<li>ThingDef/AEXP_Leather_Tiger</li>
+			<li>ThingDef/VCE_RawBanana</li>
+			<li>ThingDef/Meat_Elephant</li>
+			<li>ThingDef/Meat_AEXP_Tiger</li>
+			<li>ThingDef/Meat_OE_Raptor</li>
+			<li>ThingDef/OE_Syntherius</li>
+			<li>ThingDef/PRF_Iron</li>
+			<li>ThingDef/MM_LightMagicalLeather</li>
+			<li>ThingDef/Leather_GuineaPig</li>
+			<li>ThingDef/Leather_Light</li>
+			<li>ThingDef/InfusedAmplifier</li>
+			<li>ThingDef/VFEV_PlantGrowerArtifact</li>
+			<li>ThingDef/OE_Alcrexin</li>
+			<li>ThingDef/Ruby</li>
+			<li>ThingDef/Uranium</li>
+			<li>ThingDef/Meat_Capybara</li>
+		</exposedFilteredDefs>
+	</ModSettings>
+</SettingsBlock>

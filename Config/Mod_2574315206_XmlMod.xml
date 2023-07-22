@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="XmlExtensions.XmlModBaseSettings">
+		<dataDict>
+			<keys>
+				<li>Harkon.GunNut.CORE;toggleCENames</li>
+				<li>Harkon.GunNut.CORE;toggleCORENames</li>
+				<li>Harkon.GunNut.CORE;toggleVFESNames</li>
+				<li>Harkon.GunNut.CORE;toggleVWEFNames</li>
+				<li>Harkon.GunNut.CORE;toggleVWENames</li>
+				<li>Harkon.GunNut.CORE;toggleVWEQNames</li>
+				<li>Harkon.GunNut.CORE;LoadingBenchMachining</li>
+				<li>Harkon.GunNut.CORE;GunNutResearchCost</li>
+				<li>Harkon.GunNut.CORE;replaceCoreGrenadeSound</li>
+				<li>Harkon.GunNut.CORE;replaceCoreWeaponSound</li>
+				<li>Harkon.GunNut.CORE;replaceVWEWeaponSound</li>
+				<li>Harkon.GunNut.CORE;replaceCEWeaponSound</li>
+				<li>Harkon.GunNut.CORE;replaceCEGunsWeaponSound</li>
+			</keys>
+			<values>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>1250</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+				<li>true</li>
+			</values>
+		</dataDict>
+		<PinnedMods />
+		<trace>True</trace>
+	</ModSettings>
+</SettingsBlock>
